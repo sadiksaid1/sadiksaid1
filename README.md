@@ -1,3 +1,4 @@
-# sadiek said the programmer 
-i am self taught programer who does most jobs at the market in this world
-are sure about bro to blame me
+### who i am?
+- my name is sadiq sacid I am somali living in egypt
+- coding is my passion, i started coding three years ago, and now i am taking a computer engineering degree
+  
